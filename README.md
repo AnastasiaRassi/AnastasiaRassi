@@ -14,6 +14,6 @@ I love turning complex data into actionable insights and building models that ma
 - [Image Classification Papers](https://github.com/AnastasiaRassi/Image-Recognition-Models): Replicating research papers in Computer Vision: SqueezeNet and ResNet.
 
 ## 📫 Connect with me
-- [LinkedIn](www.linkedin.com/in/anastasia-al-rassi-9163a8264)
+- [LinkedIn](www.linkedin.com/in/anastasia-al-rassi-9163a8264/)
 - [Email](anastasiarassi2@gmail.com)
 
