@@ -4,7 +4,7 @@ I'm a Data Scientist with experience across NLP, Computer Vision, traditional ML
 I love turning complex data into actionable insights and building models that make a real impact.
 
 ## 🛠 Tech Stack
-- **Languages & Tools:** Python, SQL, PowerBI, Excel, SPSS, Tableau, Alteryx
+- **Languages & Tools:** Python, SQL, PowerBI, AWS, Excel, SPSS, Tableau, Alteryx, Optuna
 - **Libraries:** pandas, polars, NumPy, scikit-learn, imbalanced-learn, matplotlib, seaborn, TensorFlow, PyTorch
 
 ## 📌 Projects & Highlights
