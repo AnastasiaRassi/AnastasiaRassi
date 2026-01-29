@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Anastasia
 
-<!--
-**AnastasiaRassi/AnastasiaRassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist with experience across NLP, Computer Vision, traditional ML and DL, as well as advanced analytics.  
+I love turning complex data into actionable insights and building models that make a real impact.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages & Tools:** Python, SQL, PowerBI, Excel, SPSS, Tableau, Alteryx
+- **Libraries:** pandas, polars, NumPy, scikit-learn, imbalanced-learn, matplotlib, seaborn, TensorFlow, PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects & Highlights
+- [Forecasting Monthly Flight Delay](https://github.com/AnastasiaRassi/Forecasting-Flight-Delays-Monthly): Monthly flight delay forecasting using EDA, statistical analysis, feature engineering and regression modelling.
+- [Arabic NLP Pipeline](https://github.com/AnastasiaRassi/NLP_Pipeline_Arabic): Production NER and sentiment analysis pipeline for Arabic text.
+- [End-to-End Financial Fruad Detection](https://github.com/AnastasiaRassi/Financial_Fraud_Detection): End-to-end ML pipeline with experiment tracking and testing.
+- [Image Classification Papers](https://github.com/AnastasiaRassi/Image-Recognition-Models): Replicating research papers in Computer Vision: SqueezeNet and ResNet.
+
+## 📫 Connect with me
+- [LinkedIn](www.linkedin.com/in/anastasia-al-rassi-9163a8264)
+- [Email](anastasiarassi2@gmail.com)
+
