@@ -5,7 +5,7 @@ I love turning complex data into actionable insights and building models that ma
 
 ## 🛠 Tech Stack
 - **Languages & Tools:** Python, SQL, PowerBI, AWS, Excel, SPSS, Tableau
-- **Libraries:** pandas, polars, NumPy, scikit-learn, imbalanced-learn, matplotlib, seaborn, TensorFlow, PyTorch, Optuna
+- **Libraries:** pandas, polars, NumPy, scikit-learn, imbalanced-learn, matplotlib, seaborn, TensorFlow, PyTorch, Optuna, Nixtla
 
 ## 📌 Projects & Highlights
 - [Forecasting Monthly Flight Delay](https://github.com/AnastasiaRassi/Forecasting-Flight-Delays-Monthly): Monthly flight delay forecasting using EDA, statistical analysis, feature engineering and regression modelling.
