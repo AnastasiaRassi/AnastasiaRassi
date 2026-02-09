@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Anastasia
 
-I'm a Data Scientist with experience across NLP, Computer Vision, traditional ML and DL, as well as advanced analytics.  
+I'm an ML Engineer with experience across NLP, Computer Vision, traditional ML and DL, as well as advanced analytics.  
 I love turning complex data into actionable insights and building models that make a real impact.
 
 ## 🛠 Tech Stack
